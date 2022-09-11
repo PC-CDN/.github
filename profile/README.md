@@ -7,5 +7,5 @@ https://github.com/orgs/PfeifferChMX/repositories
 
 
 Co Pilot:
-https://github.com/orgs/4zylinder-quad/repositories
-https://github.com/disposable-mailbox?tab=repositories [announced] 
+https://github.com/orgs/4zylinder-quad/repositories  
+https://github.com/disposable-mailbox?tab=repositories [will be discontinued] 
