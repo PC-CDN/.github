@@ -22,9 +22,6 @@ https://github.com/orgs/PfeifferChsForks/repositories
 ![](https://github.com/4zylinder-quad.png?size=60)  
 https://github.com/orgs/4zylinder-quad/repositories  
 
-![](https://github.com/disposable-mailbox.png?size=60)  
-https://github.com/disposable-mailbox?tab=repositories [will be discontinued] 
-
 ---
 
 # Pfeiffer Ch:
